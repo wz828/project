@@ -1,5 +1,5 @@
 # project
-p6项目<br/>
+webpack打包练习<br/>
 https://wz828.github.io/project/dist/index.html
 
 <br/>
